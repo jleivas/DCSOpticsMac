@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 25 19:46:21 CLST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0166-ad68-3a4a-000006231790 
+on database directory /Users/alexiswilhelm/NetBeansProjects/DCSOpticsMac/DCSOpticsMac/DB/Derby.DB with class loader sun.misc.Launcher$AppClassLoader@5ca881b5 
+Loaded from file:/Users/alexiswilhelm/Downloads/LibOpticaV4/derbyLibs/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/Users/alexiswilhelm/NetBeansProjects/DCSOpticsMac/DCSOpticsMac
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
